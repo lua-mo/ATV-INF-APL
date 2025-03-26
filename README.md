@@ -9,3 +9,5 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/
 ![image](https://github.com/user-attachments/assets/c5bab896-7933-46f2-ad98-bcb3b35a2235)
 
 ## ATIVIDADE 03
+https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/65927726-72eb-43c1-a2d8-00dfe30a87d1/8f45ba539b8bdd2d8851?language=pt-BR&disableBranding=1&experience=power-bi
+![Captura de tela 2025-03-25 213602](https://github.com/user-attachments/assets/73c7405e-90f6-4574-87b3-580a50bcd340)
