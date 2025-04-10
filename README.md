@@ -13,3 +13,5 @@ https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/6592
 ![Captura de tela 2025-03-25 213602](https://github.com/user-attachments/assets/73c7405e-90f6-4574-87b3-580a50bcd340)
 
 ## ATIVIDADE 03
+https://github.com/lua-mo/ATV-INF-APL/blob/17744a025e3ea465e33217c423dab819916dcac6/gastos_saude_com_formulas%20Original%20(1).xlsx
+![Captura de tela 2025-04-10 191118](https://github.com/user-attachments/assets/0388849e-533c-42ad-a436-d1b9e6fbe039)
