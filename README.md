@@ -15,5 +15,5 @@ https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/6592
 ## ATIVIDADE 04
 https://onedrive.live.com/personal/ea80faa5090b8586/_layouts/15/Doc.aspx?sourcedoc=%7Bf2e8d166-2521-4e60-ba0c-65d4a877950c%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lYTgwZmFhNTA5MGI4NTg2L0VXYlI2UEloSldCT3VneGwxS2gzbFF3QkEwcUYtazhhbGUzQk5sQUM0dHRIa0E_ZT1oREY2aDE&slrid=6f2093a1-d01d-0000-98ba-271d9e5c35be&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lYTgwZmFhNTA5MGI4NTg2L0VXYlI2UEloSldCT3VneGwxS2gzbFF3QkEwcUYtazhhbGUzQk5sQUM0dHRIa0E_cnRpbWU9djlCME1qSjQzVWc&CID=e57ef34a-b7cf-4532-a80a-b65f456cc98a&_SRM=0:G:37
 <div class="board-item-wrapper" tabindex="0" style="transform: none; transform-origin: 50% 50% 0px;">
-![image](https://github.com/user-attachments/assets/d1c293cf-95f3-48fd-846a-670350892bed)
-![image](https://github.com/user-attachments/assets/b057100f-21d1-4aef-b956-679ba9f612b8)
+![image](https://github.com/user-attachments/assets/59c5a349-1698-45d0-bc84-194771918a8d)
+![image](https://github.com/user-attachments/assets/1e446dd0-5eea-4a77-98cf-346a43ffbd04)
