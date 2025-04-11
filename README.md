@@ -11,6 +11,11 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/
 ![image](https://github.com/user-attachments/assets/c5bab896-7933-46f2-ad98-bcb3b35a2235)
 
 ## Power BI: Usando Dados Abertos
+https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B17eb99ee-89ce-448d-b521-6ffb1d9a39b6%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1744331580256&web=1
+
+![image](https://github.com/user-attachments/assets/4b7abbc1-9a2d-456f-8f5f-d5c2f2460cf8)
+
+
 https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/65927726-72eb-43c1-a2d8-00dfe30a87d1/8f45ba539b8bdd2d8851?language=pt-BR&disableBranding=1&experience=power-bi
 ![Captura de tela 2025-03-25 213602](https://github.com/user-attachments/assets/73c7405e-90f6-4574-87b3-580a50bcd340)
 
