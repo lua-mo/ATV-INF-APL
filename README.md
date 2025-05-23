@@ -15,15 +15,20 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 
 ![image](https://github.com/user-attachments/assets/4b7abbc1-9a2d-456f-8f5f-d5c2f2460cf8)
 
-
 https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/65927726-72eb-43c1-a2d8-00dfe30a87d1/8f45ba539b8bdd2d8851?language=pt-BR&disableBranding=1&experience=power-bi
 ![Captura de tela 2025-03-25 213602](https://github.com/user-attachments/assets/73c7405e-90f6-4574-87b3-580a50bcd340)
 
 ## Tarefa 3: Power BI, dados abertos e Github( duplas)
 
-
 ## Regressão linear: Excel e Machine Learning
 - Projeto 1: Venda de Sorvete
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EReYilVKv_NBkBe-CwweEbQB982XjrQ3Q1ckEn0WG-u6Sw?email=luany.paula%40fatec.sp.gov.br&e=uWjfbr
 ![image](https://github.com/user-attachments/assets/c3f3f8f7-6d24-4746-93a4-ab6f1f0b67e6)
 
--Projeto 2: Consumo de cerveja
+- Projeto 2: Consumo de cerveja
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EYVDA0W9l3FFruY6b1l1peUBMU5geU9jbmCo3EC_uxWjZg?email=luany.paula%40fatec.sp.gov.br&e=e9gkbA
+![image](https://github.com/user-attachments/assets/12addfde-cbb6-4c48-b011-9f258e3276ef)
+
+- Projeto 3: Venda de casas
+https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EWKWvAtYKVxNhvhz6zufj4YB0vqRCkA_i0BopdjFoRTYGg?email=luany.paula%40fatec.sp.gov.br&e=pfccmv
+![image](https://github.com/user-attachments/assets/55994272-231f-4a93-8ce4-1c21977f3899)
