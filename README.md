@@ -19,11 +19,4 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/65927726-72eb-43c1-a2d8-00dfe30a87d1/8f45ba539b8bdd2d8851?language=pt-BR&disableBranding=1&experience=power-bi
 ![Captura de tela 2025-03-25 213602](https://github.com/user-attachments/assets/73c7405e-90f6-4574-87b3-580a50bcd340)
 
-## ATIVIDADE 03
-https://github.com/lua-mo/ATV-INF-APL/blob/17744a025e3ea465e33217c423dab819916dcac6/gastos_saude_com_formulas%20Original%20(1).xlsx
-
-![Captura de tela 2025-04-10 191118](https://github.com/user-attachments/assets/0388849e-533c-42ad-a436-d1b9e6fbe039)
-
-https://github.com/lua-mo/ATV-INF-APL/blob/bfd7379b829af3a08c8c563060f36063ad3ad1d4/gastos_saude_com_formulas%20Original%20(1).xlsx
-
-![Captura de tela 2025-04-10 184544](https://github.com/user-attachments/assets/7da3f6a5-d8b4-43ef-887e-6fbc7b055875)
+## 
