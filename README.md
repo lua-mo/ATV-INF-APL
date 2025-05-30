@@ -1,4 +1,4 @@
-# ATV-INF-APL
+# ATIVIDADES DE INFORMÁTICA APLICADA
 Atividades de Informática Aplicada à Logística
 ## ATIVIDADE 01
 https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content=DAGfsda_pds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e599a5ef9#1
@@ -35,3 +35,21 @@ https://colab.research.google.com/drive/1JSmlDfexJhozUVFUAk5yp2rFm0TUoypi?usp=sh
 https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EWKWvAtYKVxNhvhz6zufj4YB0vqRCkA_i0BopdjFoRTYGg?email=luany.paula%40fatec.sp.gov.br&e=pfccmv
 https://colab.research.google.com/drive/1dI6W976mDZxvHmVDSc1spNyd4nMrhLq0?usp=sharing
 ![image](https://github.com/user-attachments/assets/55994272-231f-4a93-8ce4-1c21977f3899)
+
+## Custo, Receita e Lucro - Excel
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B749FECC5-66EE-4311-A74B-AA54AC6AD939%7D&file=Graf_K_panela_sorvetes_produtos.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1
+- Panela de Pressão
+![image](https://github.com/user-attachments/assets/b483cdcc-0daa-4374-b722-09aa8417485b)
+
+- Produtos
+![image](https://github.com/user-attachments/assets/ed3aed94-54e1-42dc-bb44-93ea8a6802f5)
+
+- Sorvetes
+![image](https://github.com/user-attachments/assets/22a16bc9-2cb5-4c4f-8a37-4dc6df4e9347)
+
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BE6839E0F-1F30-4D4F-A381-07C94B13C5A8%7D&file=Graf_K_sandalias_computador.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1
+- Peças de Computador
+![image](https://github.com/user-attachments/assets/e353de3c-5f45-4368-acdb-add6f7470be7)
+
+- Sandálias
+![image](https://github.com/user-attachments/assets/c2e021f0-d55b-48ac-ab89-068182191c6e)
