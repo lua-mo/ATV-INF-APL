@@ -19,6 +19,10 @@ https://app.powerbi.com/groups/ca233d33-7521-4e67-a9ef-8376b6a471d3/reports/6592
 ![Captura de tela 2025-03-25 213602](https://github.com/user-attachments/assets/73c7405e-90f6-4574-87b3-580a50bcd340)
 
 ## Tarefa 3: Power BI, dados abertos e Github( duplas)
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B779dfaaf-d763-4442-a80f-15130fac0b59%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1749263245999&web=1
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/luany_paula_fatec_sp_gov_br/Documents/Acidentes%20Rio-SP.pbix?csf=1&web=1&e=ZmvG8j
+![Captura de tela 2025-06-06 232820](https://github.com/user-attachments/assets/4dd406fc-7e68-46e5-98b2-396e986dec4d)
+![Captura de tela 2025-06-06 233147](https://github.com/user-attachments/assets/8604bce3-823c-4e7b-809d-8ece900657cd)
 
 ## Regressão linear: Excel e Machine Learning
 - Projeto 1: Venda de Sorvete
