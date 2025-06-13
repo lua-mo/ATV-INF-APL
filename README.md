@@ -26,17 +26,20 @@ Atividades de Informática Aplicada à Logística
 
 ## Regressão linear: Excel e Machine Learning
 - Projeto 1: Venda de Sorvete
-https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EReYilVKv_NBkBe-CwweEbQB982XjrQ3Q1ckEn0WG-u6Sw?email=luany.paula%40fatec.sp.gov.br&e=uWjfbr
-https://colab.research.google.com/drive/1trYXBzWxtIOmFyMOPUBFcGCYZA7FSTAT?usp=sharing
+[Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EReYilVKv_NBkBe-CwweEbQB982XjrQ3Q1ckEn0WG-u6Sw?email=luany.paula%40fatec.sp.gov.br&e=uWjfbr)
+
+[Clique aqui para acessar meu trabalho](https://colab.research.google.com/drive/1trYXBzWxtIOmFyMOPUBFcGCYZA7FSTAT?usp=sharing)
 ![image](https://github.com/user-attachments/assets/c3f3f8f7-6d24-4746-93a4-ab6f1f0b67e6)
 
 - Projeto 2: Consumo de cerveja
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EYVDA0W9l3FFruY6b1l1peUBMU5geU9jbmCo3EC_uxWjZg?email=luany.paula%40fatec.sp.gov.br&e=e9gkbA)
+
 [Clique aqui para acessar meu trabalho](https://colab.research.google.com/drive/1JSmlDfexJhozUVFUAk5yp2rFm0TUoypi?usp=sharing)
 ![image](https://github.com/user-attachments/assets/12addfde-cbb6-4c48-b011-9f258e3276ef)
 
 - Projeto 3: Venda de casas
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EWKWvAtYKVxNhvhz6zufj4YB0vqRCkA_i0BopdjFoRTYGg?email=luany.paula%40fatec.sp.gov.br&e=pfccmv)
+
 [Clique aqui para acessar meu trabalho](https://colab.research.google.com/drive/1dI6W976mDZxvHmVDSc1spNyd4nMrhLq0?usp=sharing)
 ![image](https://github.com/user-attachments/assets/55994272-231f-4a93-8ce4-1c21977f3899)
 
