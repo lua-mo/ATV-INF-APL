@@ -1,11 +1,11 @@
 # ATIVIDADES DE INFORMÁTICA APLICADA
 Atividades de Informática Aplicada à Logística
-## ATIVIDADE 01
+## Tarefa 1
 [Clique aqui para acessar meu trabalho](https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content=DAGfsda_pds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e599a5ef9#1)
 
 ![Captura de tela 2025-03-21 202340](https://github.com/user-attachments/assets/f2b13f4a-4ae2-40cf-88ce-3c616da5c6d2)
 
-## ATIVIDADE 02
+## Tarefa 2
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bd3890188-3f0e-46fe-bf24-084a1b84a0bb%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1742599557876&web=1)
 
 ![image](https://github.com/user-attachments/assets/c5bab896-7933-46f2-ad98-bcb3b35a2235)
@@ -20,24 +20,28 @@ Atividades de Informática Aplicada à Logística
 
 ## Tarefa 3: Power BI, dados abertos e Github( duplas)
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B779dfaaf-d763-4442-a80f-15130fac0b59%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1749263245999&web=1)
+
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:u:/r/personal/luany_paula_fatec_sp_gov_br/Documents/Acidentes%20Rio-SP.pbix?csf=1&web=1&e=ZmvG8j)
 ![Captura de tela 2025-06-06 232820](https://github.com/user-attachments/assets/4dd406fc-7e68-46e5-98b2-396e986dec4d)
 ![Captura de tela 2025-06-06 233147](https://github.com/user-attachments/assets/8604bce3-823c-4e7b-809d-8ece900657cd)
 
 ## Regressão linear: Excel e Machine Learning
 - Projeto 1: Venda de Sorvete
+
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EReYilVKv_NBkBe-CwweEbQB982XjrQ3Q1ckEn0WG-u6Sw?email=luany.paula%40fatec.sp.gov.br&e=uWjfbr)
 
 [Clique aqui para acessar meu trabalho](https://colab.research.google.com/drive/1trYXBzWxtIOmFyMOPUBFcGCYZA7FSTAT?usp=sharing)
 ![image](https://github.com/user-attachments/assets/c3f3f8f7-6d24-4746-93a4-ab6f1f0b67e6)
 
 - Projeto 2: Consumo de cerveja
+
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EYVDA0W9l3FFruY6b1l1peUBMU5geU9jbmCo3EC_uxWjZg?email=luany.paula%40fatec.sp.gov.br&e=e9gkbA)
 
 [Clique aqui para acessar meu trabalho](https://colab.research.google.com/drive/1JSmlDfexJhozUVFUAk5yp2rFm0TUoypi?usp=sharing)
 ![image](https://github.com/user-attachments/assets/12addfde-cbb6-4c48-b011-9f258e3276ef)
 
 - Projeto 3: Venda de casas
+
 [Clique aqui para acessar meu trabalho](https://fatecspgov-my.sharepoint.com/:x:/g/personal/luany_paula_fatec_sp_gov_br/EWKWvAtYKVxNhvhz6zufj4YB0vqRCkA_i0BopdjFoRTYGg?email=luany.paula%40fatec.sp.gov.br&e=pfccmv)
 
 [Clique aqui para acessar meu trabalho](https://colab.research.google.com/drive/1dI6W976mDZxvHmVDSc1spNyd4nMrhLq0?usp=sharing)
