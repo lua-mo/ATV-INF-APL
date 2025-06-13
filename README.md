@@ -57,3 +57,10 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/
 
 - Sandálias
 ![image](https://github.com/user-attachments/assets/c2e021f0-d55b-48ac-ab89-068182191c6e)
+
+## Power Apps e Power Automate
+-Power Apps
+
+https://github.com/user-attachments/assets/b49ebff5-2f6f-40d0-ae5e-f35467e27230
+
+
