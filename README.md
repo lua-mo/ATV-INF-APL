@@ -1,7 +1,7 @@
 # ATIVIDADES DE INFORMÁTICA APLICADA
 Atividades de Informática Aplicada à Logística
 ## ATIVIDADE 01
-https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content=DAGfsda_pds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e599a5ef9#1
+[Clique aqui para acessar meu trabalho](https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content=DAGfsda_pds&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e599a5ef9#1)
 
 ![Captura de tela 2025-03-21 202340](https://github.com/user-attachments/assets/f2b13f4a-4ae2-40cf-88ce-3c616da5c6d2)
 
@@ -63,4 +63,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luany_paula_fatec_sp_gov_br/
 
 https://github.com/user-attachments/assets/b49ebff5-2f6f-40d0-ae5e-f35467e27230
 
+-Power Automate
 
+
+https://github.com/user-attachments/assets/1bc10776-473b-47dd-9599-568c1e163f18
