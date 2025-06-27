@@ -79,3 +79,6 @@ https://github.com/user-attachments/assets/1bc10776-473b-47dd-9599-568c1e163f18
 
 https://github.com/user-attachments/assets/cd10d5ab-d059-4c72-a392-bc779a21c329
 
+- Power BI
+![image](https://github.com/user-attachments/assets/10694ce2-02db-455b-87cc-685f38cb8317)
+![Captura de tela 2025-06-26 223559](https://github.com/user-attachments/assets/41cfdb7e-9157-4126-83bb-6376eb58cdba)
